@@ -1,2 +1,1 @@
-# AyersScienceFair
-Ayers Elementary School Science Fair
+# Ayers Ryal Side Elementary School Science Fair Handbook
