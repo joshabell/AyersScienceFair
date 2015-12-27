@@ -1,5 +1,5 @@
 # Summary
 
-* [Welcome](welcome.md)
 * Schedule
+* [Welcome](welcome.md)
 
