@@ -10,6 +10,6 @@ Items to include on your project:
   * Your project title
   * Your name and grade
 
-Here's an example on how to layout your poster.
+Here's an example on how to layout your poster:
 
-![]("resources/poster.png")
+![](./resources/poster.png)
