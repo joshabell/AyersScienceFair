@@ -6,5 +6,4 @@
    * [Experimental Projects](ExperimentProjects.md)
    * [Display](Display.md)
 * [Judging](Judging.md)
-* [FAQ](FAQ.md)
 * [Resources](Resources.md)
