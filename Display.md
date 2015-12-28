@@ -12,4 +12,4 @@ Items to include on your project:
 
 Here's an example on how to layout your poster.
 
-![]("resources/poster.png")
+![](poster.png)
