@@ -1,3 +1,5 @@
-Welcome to the Ayers Ryal Side Elementary School Science Fair!
+Congratulations for signing up to participate in the Eighth Annual Ayers Ryal Side Science Fair for students in Grades 3-5!
 
-Here you will hopefully find everything you need to successfully participate in the Ayers Science Fair!
+The following information is designed to help you  prepare for the fair.  
+
+It includes guidelines on how to pick a topic, create a project and display your project.  This package also includes very important safety rules, including  limitations for animal projects.  Please pay close attention to the safety rules and  limitations.  All participants will be required to follow these important rules.
