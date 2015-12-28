@@ -11,13 +11,17 @@ Researching science fair projects is a great excuse to explore your local librar
 
 ** Always get permission before using the Internet! **
 
-Can't decide on a topic? Use this online survey that will guide you in finding a project that is just right for you!
+Can't decide on a topic?
+
+Not sure what your project should look like?
+
+Use these online resources for ideas!
 
 ### Science Buddies Wizard
 
  * [http://www.sciencebuddies.org](http://www.sciencebuddies.org)
 
-Science Buddies has a nice tool for recommending project ideas based upon your
+Science Buddies has a nice survey tools which recommending project ideas based upon your
 interests.
 
 ### All Science Fair Projects

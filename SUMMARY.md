@@ -1,8 +1,6 @@
 # Summary
-
-* [Introduction](Introduction.md)
-   * [Schedule](Schedule.md)
-  * [Rules](Rules.md)
+* [Schedule](Schedule.md)
+* [Rules](Rules.md)
 * [Projects](Projects.md)
    * [Research Projects](ResearchProjects.md)
    * [Experimental Projects](ExperimentProjects.md)
