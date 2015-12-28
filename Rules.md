@@ -1,6 +1,6 @@
 # Rules
 
-## Safety Rules
+## Safety rules
 
 The following safety rules must be followed:
 
@@ -10,12 +10,15 @@ The following safety rules must be followed:
 4. No dangerous chemicals such as toxic materials or medicines.
 5. No poisonous or disease-causing organisms.
 
-## Avoid the Need for an Electrical Outlet
+## Avoid the need for an electrical outlet
 
 Please avoid using electrical power for your display.  
-There are very few display  locations that have access to an electrical outlet.  Participants cannot be guaranteed a  display location that is near an electrical outlet.  <b>Batteries are allowed</b>
 
-## Animal Projects
+There are very few display  locations that have access to an electrical outlet.  Participants cannot be guaranteed a  display location that is near an electrical outlet.  
+
+<b>Batteries are allowed</b>.
+
+## Animal projects
 
 Animal study projects would maintain a respect for all living things.  For this Science Fair, the following rules apply:
 

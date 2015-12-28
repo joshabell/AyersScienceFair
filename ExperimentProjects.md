@@ -2,9 +2,21 @@
 
 Use the Scientific Method for Experimental Projects.
 
+## The Scientific Method
+
+The steps of the scientific method are to:
+ * Ask a Question
+ * Do Background Research
+ * Construct a Hypothesis
+ * Test Your Hypothesis by Doing an Experiment
+ * Analyze Your Data and Draw a Conclusion
+ * Communicate Your Results
+
+## Example
+
 Here is a sample of an experimental project:
 
-> Alexander is really curious about how batteries work. After doing some initial research, he decides to do an Experimentation science fair project - one that requires an experiment and one that expects him to follow all six steps of the Scientific Method.
+> Alexander is really curious about how batteries work. After doing some initial research, he decides to do an experimentation science fair project - one that requires an experiment and one that expects him to follow all six steps of the Scientific Method.
 
 > A. Alexander asks the question, *"Can I create my own battery?"*
 
