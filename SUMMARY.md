@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](Title.md)
-   * [Welcome](Welcome.md)
+* [Introduction](Introduction.md)
    * [Schedule](Schedule.md)
   * [Rules](Rules.md)
 * [Projects](Projects.md)
