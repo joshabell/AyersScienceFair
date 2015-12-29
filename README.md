@@ -1,4 +1,7 @@
-Congratulations for signing up to participate in the Eighth Annual Ayers Ryal Side Science Fair for students in Grades 3-5!
+
+# A Message from the Science Fair Committee
+
+*Congratulations for signing up to participate in the Eighth Annual Ayers Ryal Side Science Fair for students in Grades 3-5!*
 
 The following information is designed to help you  prepare for the fair.  
 
