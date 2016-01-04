@@ -1,6 +1,6 @@
 # Experiment Projects
 
-Use the Scientific Method for Experimental Projects.
+Experimental projects use the Scientific Method.
 
 ## The Scientific Method
 
@@ -20,13 +20,13 @@ Here is a sample of an experimental project:
 
 > A. Alexander asks the question, *"Can I create my own battery?"*
 
-> B. He researches the components of a battery and learns all about positive electrons, negative electrons, circuits, current flow.
+> B. He researches the components of a battery and learns all about positive electrons, negative electrons, circuits, and current flow.
 
 > C. He creates a hypothesis. In this case, he hypothesizes that he can create a battery using lemons, zinc, copper, and wires.
 
 > *“I believe I can make a battery using lemon, zinc, copper and wires.”*
 
-> D. To test his hypothesis, he sets up an experiment using the materials listed in his hypothesis. In this case, copper metal, zinc metal, wires, alligator clips, lemons and a small LED.
+> D. To test his hypothesis, he sets up an experiment using the materials listed in his hypothesis. In this case, copper metal, zinc metal, wires, alligator clips, lemons, and a small LED.
 
 > E. Alexander's initial experiment fails. He analyzes his experiment and his research and decides that he used insufficient zinc and copper. After adding more, he lights the LED.
 

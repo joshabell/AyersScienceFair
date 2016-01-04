@@ -1,6 +1,6 @@
 # Research Projects
 
-For a research project, your goal is to learn facts about your topic, and share those facts in an interesting and comprehensive display. Your research display can include: information from the internet and the library, graphics, comparisons, displays of charts and graphs, statistics from conducting a survey, a demonstration, a model, samples or collections.
+For a research project, your goal is to learn facts about your topic and share those facts in an interesting and comprehensive display. Your research display can include: information from the internet and the library, graphics, comparisons, displays of charts and graphs, statistics from conducting a survey, a demonstration, a model, samples, or collections.
 
 ## Example
 

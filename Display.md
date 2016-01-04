@@ -15,6 +15,6 @@ Items to include on your presentation:
   * Did you follow any particular procedure?
   * Did you reach a conclusion?
 
-Here's an example on how to layout your poster:
+Here's an example of how to layout your poster:
 
 ![](./resources/poster.png)
