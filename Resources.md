@@ -21,7 +21,7 @@ Use these online resources for ideas!
 
  * [http://www.sciencebuddies.org](http://www.sciencebuddies.org)
 
-Science Buddies has a nice survey tools which recommending project ideas based upon your
+Science Buddies has a nice survey tools, which recommends project ideas based upon your
 interests.
 
 ### All Science Fair Projects
@@ -39,6 +39,6 @@ Science Fair topics and presentation tips.
 
 ### Youtube
 
-With adult supervision, you can go to You Tube and search “science fair projects" or "science fair presentations".
+* [https://www.youtube.com/](https://www.youtube.com/)
 
-Get a feel for what a science fair looks like, listen to students discuss their projects, or get an idea for a project.
+With adult supervision, you can go to You Tube and search “science fair projects" or "science fair presentations" to get a feel for what a science fair looks like, listen to students discuss their projects, or get an idea for a project.
