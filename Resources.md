@@ -24,6 +24,13 @@ Use these online resources for ideas!
 Science Buddies has a nice survey tools, which recommends project ideas based upon your
 interests.
 
+
+### Education.com
+
+ * [http://www.education.com/science-fair/elementary-school/](http://www.education.com/science-fair/elementary-school/)
+
+Education.com has over 700 science fair project ideas for elementary school students.
+
 ### All Science Fair Projects
 
 * [http://www.all-science-fair-projects.com](http://www.all-science-fair-projects.com)
